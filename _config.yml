@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Paulius_foto.jpg"
+  avatar           : "Paulius_foto.jpg"
   name             : "Paulius Kazlauskas"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Economics"
