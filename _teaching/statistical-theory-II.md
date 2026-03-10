@@ -3,12 +3,12 @@ title: "Statistical Theory II — Lab Sessions"
 collection: teaching
 type: "Lab sessions"
 permalink: /teaching/statisticaltheoryII-labs/
-venue: "Vilnius University, Department of Economics"
+venue: "Vilnius University"
 date: 2026-03-03
 location: "Vilnius, Lithuania"
 ---
 
-Covering the practical material related to both Bayesian statistics and introduction to R programming in six three-hour-long lecture-tutorial sessions. The other six lectures are taught by Junghum Park, the main instructor of the course.
+Covering the practical material related to both Bayesian statistics and introduction to R programming in six three-hour-long lecture-tutorial sessions. The other six lectures are taught by Junghum Park, the main instructor of the course. The course is part of the BSc Quantitative Economics programme, usually taken by 1st year students.
 
 ## Lab 1
 
