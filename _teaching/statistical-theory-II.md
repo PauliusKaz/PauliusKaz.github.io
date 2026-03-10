@@ -2,7 +2,7 @@
 title: "Statistical Theory II — Lab Sessions"
 collection: teaching
 type: "Lab sessions"
-permalink: /teaching/statisticaltheoryII-labs
+permalink: /teaching/statisticaltheoryII-labs/
 venue: "Vilnius University, Department of Economics"
 date: 2026-03-03
 location: "Vilnius, Lithuania"
