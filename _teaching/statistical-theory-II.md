@@ -23,3 +23,34 @@ Covering the practical material related to both Bayesian statistics and introduc
 |----------|------|
 | Slides   | [Download](/files/Lab2_slides.pdf) |
 | Practice | [Download](/files/Lab2_practice.pdf) |
+
+## Lab 3
+
+| Material | Link |
+|----------|------|
+| Slides   | [Download](/files/Lab3_slides.pdf) |
+| Practice | [Download](/files/Lab3_practice.pdf) |
+
+## Lab 4
+
+| Material | Link |
+|----------|------|
+| Slides   | [Download](/files/Lab4_slides.pdf) |
+| Practice 1 | [Download](/files/Lab4.1.pdf) |
+| Practice 2 | [Download](/files/Lab4.2.pdf) |
+| Practice Bonus | [Download](/files/Lab4_bonus.pdf) |
+
+
+## Lab 5
+
+| Material | Link |
+|----------|------|
+| Slides   | [Download](/files/Lab5_slides.pdf) |
+| Practice | [Download](/files/Lab5_practice.pdf) |
+
+
+## Lab Exam
+
+| Material | Link |
+|----------|------|
+| Exam  | [Download](/files/Labs_exam_2026.pdf) |
