@@ -2,7 +2,7 @@
 title: "Trade and International Finance - Tutorial Sessions"
 collection: teaching
 type: "Tutorial Sessions"
-permalink: /teaching/statisticaltheoryII-labs/
+permalink: /teaching/TiF/
 venue: "Sciences Po (Reims Campus)"
 date: 2026-09-16
 location: "Reims, France"
